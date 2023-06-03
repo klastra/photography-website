@@ -44,8 +44,6 @@ html {
 
 .sec-container{
    display: flex;
-   
-
 }
 
 
@@ -125,4 +123,3 @@ nav {
 .nav-socials a:hover {
    color: var(--color-primary);
 }
-
