@@ -1,5 +1,4 @@
 :root {
-   /* GREEN THEME ? */
    /* variables */  
    --color-primary: #0E67B4;
    --color-primary-variant: #e5a55d;
@@ -61,7 +60,7 @@ h1, h2, h3 {
 h1 {
    font-size: 2rem;
    bottom: 50px;
-   left: 41%;
+   left: 39%;
 }
 
 h2 {
@@ -71,7 +70,7 @@ h2 {
 h3 {
    font-size: 1rem;
    bottom: 10px;
-   left: 46%;
+   left: 44%;
 }
 
 a {

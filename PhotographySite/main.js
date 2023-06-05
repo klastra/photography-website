@@ -3,4 +3,3 @@ window.addEventListener('scroll', () => {
     window.scrollY > 0);
 })
 
-
