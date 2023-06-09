@@ -28,16 +28,11 @@
     text-decoration: none;
     box-sizing: border-box;
  }
-
- html, body, div, img {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
+ 
+ html {
     scroll-behavior: smooth;
-}
+ 
+ }
 
  .container {
     width: 100%;
@@ -60,7 +55,6 @@
  body { 
     font-family: 'Lato', sans-serif;
     background-color: var(--color-dark);
-    line-height: 1;
  }
  
  h1, h2, h3, p {
@@ -150,29 +144,19 @@ nav {
    color: var(--color-primary);
 }
 
- /*start style for gallery page */
+ /*s style for about page */
 
-.gallery-container {
-    display: flex;
-    flex-wrap: wrap;
-    flex-grow: 1;
-    justify-content: space-evenly;
+ .paragraph-container{
+   height: 40vh;
+   padding: 30px;
+ }
 
-}
+ .contact-container {
+   height: 20vh;
+   padding: 50px;
+ }
 
-.item {
-    height: 58vh;
-    margin: 15px;
-    flex-basis: 40%;
-}
+ .contact-container a {
+   font-size: 1.8rem;
+ }
 
-.item:hover{
-    -webkit-transition: all .2s ease-in;
-    -moz-transition: all .2s ease-in;
-    -ms-transition: all .2s ease-in;
-    -o-transition: all .2s ease-in;
-    transition: all .2s ease-in;
-    opacity: 1;
-    width: 60vw;
-    height: 85vh;
-}
