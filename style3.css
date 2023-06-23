@@ -149,10 +149,12 @@ nav {
  .paragraph-container{
    height: 40vh;
    padding: 30px;
+   margin-bottom: 35px;
  }
 
  .contact-container {
-   width: 50px;
+   width: 100%;
+   height: 150px;
  }
 
  .contact-container a {
