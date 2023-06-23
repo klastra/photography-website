@@ -154,7 +154,7 @@ nav {
 
  .contact-container {
    width: 100%;
-   height: 100px;
+   height: 85px;
    text-align: center;
  }
 
@@ -166,6 +166,7 @@ nav {
  .contact-container a{
    position: relative;
    font-size: 3rem;
+   margin-top: 10px;
  }
 
  .contact-container a::before {
