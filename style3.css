@@ -71,10 +71,9 @@
  }
  
  h2 {
-    left: 41%;
+    left: 43%;
     text-shadow: 4px 4px 5px rgb(203, 107, 11);
     top: 213%;
-    padding-top: 10px;
  }
  
  h3 {
@@ -160,5 +159,6 @@ nav {
 
  .contact-container a {
    font-size: 1.8rem;
+   margin-top: 15px;
  }
 
