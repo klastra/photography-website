@@ -152,11 +152,11 @@ nav {
  }
 
  .contact-container {
-   height: 20vh;
-   padding: 50px;
+   width: 50px;
  }
 
  .contact-container a {
    font-size: 1.8rem;
+   padding-top: 40px;
  }
 
