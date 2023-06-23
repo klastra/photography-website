@@ -34,7 +34,7 @@ html {
 }
 
 .container {
-   background-image: url("./images/homepage.jpeg");
+   background-image: url("homepage.jpeg");
    width: 100%;
    height: 100vh;
    background-position: center;
